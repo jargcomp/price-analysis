@@ -36,7 +36,7 @@ Processes/Work Flow
         * Discount
       Save changes
     Price Analysis/Find best prices for a specific part
-      Open excel spreadsheet
-      Navigate to Price Analysis sheet
-      Enter in search term until matched shows desired product
-      Note prices for Best, Better, Worse, Worst Suppliers
+      1. Open excel spreadsheet
+      2. Navigate to Price Analysis sheet
+      3. Enter in search term until matched shows desired product
+      4. Note prices for Best, Better, Worse, Worst Suppliers
