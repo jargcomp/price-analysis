@@ -3,7 +3,7 @@ Problem we're trying to solve:
 
     * As owners of a company, we want to find the best deals on parts among our suppliers 
     so that we can save money.
-    * As owners of a company, we want to see how many units we purchased over a period of time, 
+    * As owners of a company, we want to see how many units of a particular product we purchased over a period of time, 
     so that we can better anticipate future orders and calculate how to save.
 
 Assumptions:
