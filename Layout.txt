@@ -3,6 +3,8 @@ Database
 Suppliers
   - ID
   - NAME
+  - CONTACTNAME
+  - CONTACTPHONE
 
 Units
   - ID
@@ -16,13 +18,10 @@ Model_Map
   - DATE(From Invoices Table)
  
 Invoices
+  - ID
   - INVOICE_NUMBER
   - DATE
   - SUPPLIER_ID
-
-Invoice_Data
-  - ID
-  - INVOICE_NUMBER
   - UNIT_ID
   - QUANTITY
   - DISCOUNT
