@@ -22,6 +22,10 @@ Invoices
   - INVOICE_NUMBER
   - DATE
   - SUPPLIER_ID
+  
+InvoiceDetails
+  - ID
+  - InvoiceNumber
   - UNIT_ID
   - QUANTITY
   - DISCOUNT
